@@ -34,7 +34,7 @@
       },
       {
         "id": 5,
-        "title": "Creation Stories (2021)",
+        "title": "Creation Stories (2021)", 
         "year": 2021,
         "description": "La verdadera historia del ascenso y caída de Creation Records y su infame fundador Alan McGee; el hombre responsable de suministrar la banda sonora del “Brit Pop” a los 90.",
         "photo": "https://image.tmdb.org/t/p/w300/7sEbuICGmFqooR5dbYQQpQa1zYo.jpg?x93679",
@@ -48,7 +48,16 @@
         "description": "Comienza cuando Jonathan Kent, de once años, descubre que tiene superpoderes, empujando al semi kryptoniano al complicado mundo de los superhéroes y los supervillanos, que ahora están siendo atacados por una fuerza alienígena malvada conocida como Starro”.",
         "photo": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9QLH4BBVJnQycNo0bp8YY22Ux5O.jpg",
         "url": "https://streamtape.com/get_video?id=69J4xQ2gxLC4D4&expires=1667523959&ip=F0qOKRSUDI9XKxR&token=dJTCaWKEagH0&stream=1"
+      },
+              {
+        "id": 7,
+        "title": "Black Adam",
+        "year": 2022,
+        "description": "Casi 5.000 años después de haber sido dotado de los poderes omnipotentes de los antiguos dioses -y encarcelado con la misma rapidez-, Black Adam es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno.",
+        "photo": "https://cloudfront-us-east-1.images.arcpublishing.com/copesa/NKRTL7HORJFTVBRJ4MZ2SB5UNI.png",
+        "url": "https://streamtape.com/get_video?id=Kqwj9ByZaJI0kJQ&expires=1667604061&ip=F0qOKRSUDI9XKxR&token=A49KvBJ1RAp6&stream=1"
       }
+        
     
     ],
     "terror": [
